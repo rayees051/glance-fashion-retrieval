@@ -44,8 +44,7 @@ glance-fashion-retrieval/
 │   └── embeddings.npy
 
 ├── notebook/
-│   ├── Indexer.ipynb
-│   └── Retriever.ipynb
+│   ├── fashion_retrieval.ipynb
 
 ├── retriever/
 │   └── search.py
@@ -53,9 +52,6 @@ glance-fashion-retrieval/
 ├── utils/
 │   ├── attribute_extractor.py
 │   └── embedding.py
-
-├── indexer/
-│   └── build_index.py
 
 └── report/
 ```
