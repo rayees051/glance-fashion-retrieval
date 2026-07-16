@@ -116,3 +116,25 @@ Professional business attire inside a modern office
 - ANN indexes for very large datasets
 - Web interface using Streamlit
 - Multi-language query support
+
+
+## Sample Results
+
+### Query 1
+**Professional business attire inside a modern office**
+
+![Business Attire](sample_results/business_attire.png)
+
+---
+
+### Query 2
+**A person wearing a bright yellow raincoat**
+
+![Yellow Raincoat](sample_results/raincoat.png)
+
+---
+
+### Query 3
+**Casual weekend outfit for a city walk**
+
+![Casual City Walk](sample_results/casual_city_walk.png)

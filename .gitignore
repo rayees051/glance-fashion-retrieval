@@ -21,3 +21,9 @@ runs/
 *.pth
 
 .ipynb_checkpoints/
+
+# Ignore dataset images
+dataset/images/
+
+# Keep the folder
+!dataset/images/.gitkeep
