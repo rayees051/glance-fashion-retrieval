@@ -1,0 +1,9 @@
+torch
+torchvision
+open_clip_torch
+transformers
+faiss-cpu
+numpy
+matplotlib
+Pillow
+tqdm
